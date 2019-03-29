@@ -10,7 +10,7 @@
       "type": "string",
       "required": true
     },
-    "woonplaats": {
+    "woonplaatsje": {
       "type": "string",
       "required": true
     },
