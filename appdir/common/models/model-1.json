@@ -1,0 +1,25 @@
+{
+  "name": "model1",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "naam": {
+      "type": "string",
+      "required": true
+    },
+    "woonplaats": {
+      "type": "string",
+      "required": true
+    },
+    "land": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

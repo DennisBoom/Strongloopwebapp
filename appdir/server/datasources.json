@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodatabase": {
+    "host": "fdphq.azure.mongodb.net",
+    "port": 27017,
+    "url": "mongodb+srv://AdminTest:admintest@clustertest-fdphq.azure.mongodb.net/test?retryWrites=true",
+    "database": "DbApp",
+    "password": "admintest",
+    "name": "mongodatabase",
+    "user": "AdminTest",
+    "connector": "mongodb"
+  }
+}
