@@ -16,6 +16,9 @@
     },
     "land": {
       "type": "string"
+    },
+    "Max": {
+      "type": "string"
     }
   },
   "validations": [],
